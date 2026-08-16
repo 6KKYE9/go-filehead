@@ -1,1 +1,0 @@
-Add go-filehead: preview first lines or bytes of a file
